@@ -3,16 +3,9 @@
 	"bio": "Bio",
 	"status": [
 		{
-			"status": "uu",
-			"time": "20:17",
+			"status": "tesing lol",
+			"time": "20:19",
 			"date": "2024-05-13"
-		},
-		[
-			{
-				"status": "ffff",
-				"time": "20:15",
-				"date": "2024-05-13"
-			}
-		]
+		}
 	]
 }
