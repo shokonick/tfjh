@@ -2,6 +2,10 @@
 	"username": "lol",
 	"bio": "Bio",
 	"status": [
+		{
+			"status": "f",
+			"date": "2024-05-13"
+		},
 		[
 			{
 				"status": "ffff",
