@@ -3,6 +3,11 @@
 	"bio": "Im just a designer who makes stuff :|",
 	"status": [
 		{
+			"status": "This is cool",
+			"time": "20:24",
+			"date": "2024-05-13"
+		},
+		{
 			"status": "I swear it took so long",
 			"time": "20:20",
 			"date": "2024-05-13"
