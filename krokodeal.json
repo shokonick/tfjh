@@ -3,6 +3,11 @@
 	"bio": "Im just a designer who makes stuff :|",
 	"status": [
 		{
+			"status": "<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.ibb.co/ZfT1CCf/image.png\" alt=\"idk\" width=\"220\" height=\"220\" />Good Times",
+			"time": "21:45",
+			"date": "2024-05-18"
+		},
+		{
 			"status": "<em><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.pinimg.com/originals/41/f0/58/41f0583894cded7403954eccbf510e9b.jpg\" alt=\"Australia \" width=\"250\" height=\"214\" /></em>",
 			"time": "01:32",
 			"date": "2024-05-18"
