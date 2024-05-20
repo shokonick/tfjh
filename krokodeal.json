@@ -1,106 +1,11 @@
 {
-	"username": "Shoko",
-	"bio": "Im just a designer who makes stuff :|",
+	"username": "User",
+	"bio": "Bio",
 	"status": [
 		{
-			"status": "<iframe width="560" height="315" src="https://www.youtube.com/embed/CtnZKubTLYI?si=F1g9GmGtvtKuNQ1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
-			"time": "17:02",
+			"status": "\n                             \n                             ",
+			"time": "00:00",
 			"date": "2024-05-20"
-		},
-		{
-			"status": "i love&nbsp;<span class=\"mw-page-title-main\">Lower Saxony</span>",
-			"time": "11:31",
-			"date": "2024-05-20"
-		},
-		{
-			"status": "Hello World",
-			"time": "08:46",
-			"date": "2024-05-20"
-		},
-		{
-			"status": "I'm tired <strong>Again</strong>&nbsp;",
-			"time": "18:33",
-			"date": "2024-05-19"
-		},
-		{
-			"status": "Yeah I waked up",
-			"time": "11:01",
-			"date": "2024-05-19"
-		},
-		{
-			"status": "I'm tired",
-			"time": "08:40",
-			"date": "2024-05-19"
-		},
-		{
-			"status": "<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.ibb.co/ZfT1CCf/image.png\" alt=\"idk\" width=\"220\" height=\"220\" />Good Times",
-			"time": "21:45",
-			"date": "2024-05-18"
-		},
-		{
-			"status": "<em><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.pinimg.com/originals/41/f0/58/41f0583894cded7403954eccbf510e9b.jpg\" alt=\"Australia \" width=\"250\" height=\"214\" /></em>",
-			"time": "01:32",
-			"date": "2024-05-18"
-		},
-		{
-			"status": "Yummm hmmers",
-			"time": "17:23",
-			"date": "2024-05-17"
-		},
-		{
-			"status": "Hmmm yummers",
-			"time": "21:36",
-			"date": "2024-05-16"
-		},
-		{
-			"status": "hope good days must come at the end, no?",
-			"time": "15:35",
-			"date": "2024-05-16"
-		},
-		{
-			"status": "<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"http://i.pinimg.com/originals/f8/da/39/f8da396683b4d42c9b2caa679c961b43.jpg\" alt=\"img test\" width=\"188\" height=\"231\" />sup",
-			"time": "00:01",
-			"date": "2024-05-16"
-		},
-		{
-			"status": "It's already 18:13 and I don't know why",
-			"time": "18:13",
-			"date": "2024-05-15"
-		},
-		{
-			"status": "I love mismosi",
-			"time": "16:55",
-			"date": "2024-05-15"
-		},
-		{
-			"status": "yeah",
-			"time": "14:31",
-			"date": "2024-05-15"
-		},
-		{
-			"status": "𝓢𝓱𝓪𝓵𝓸𝓶 𝓫𝓻𝓸 ♥️",
-			"time": "14:24",
-			"date": "2024-05-14"
-		},
-		{
-			"status": "angry brds 3 amen 🙏",
-			"time": "11:23",
-			"date": "2024-05-14"
-		},
-		{
-			"status": "This is cool",
-			"time": "20:24",
-			"date": "2024-05-13"
-		},
-		{
-			"status": "I swear it took so long",
-			"time": "20:20",
-			"date": "2024-05-13"
-		},
-		{
-			"status": "tesing lol",
-			"time": "20:19",
-			"date": "2024-05-13"
 		}
 	]
 }
