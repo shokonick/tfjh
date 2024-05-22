@@ -1,8 +1,12 @@
 {
 	"username": "Shoko",
 	"bio": "Im just a designer who makes stuff :|",
-        "icon": "https://cdn.masto.host/tooot/accounts/avatars/112/044/802/132/338/591/original/1fbd8179219b73e1.jpg",
 	"status": [
+		{
+			"status": "<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn.jsdelivr.net/gh/shokonick/tfjh@4cc4ce8ea74434cf21a2319ec0a5d345ed31e8af/images/599161788d37f35f.png\" alt=\"important photo\" width=\"238\" height=\"191\" />",
+			"time": "15:10",
+			"date": "2024-05-22"
+		},
 		{
 			"status": "<a href=\"https://www.google.com/maps/@53.1926128,9.2869779,3a,75y,15.54h,82.38t/data=!3m7!1e1!3m5!1sT9EtZjk9Trp6o4_mCs1BEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DT9EtZjk9Trp6o4_mCs1BEQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D341.32922%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu\">S t r e e t&nbsp; V i e w</a>",
 			"time": "10:24",
@@ -118,5 +122,6 @@
 			"time": "20:19",
 			"date": "2024-05-13"
 		}
-	]
+	],
+	"icon": "https://cdn.masto.host/tooot/accounts/avatars/112/044/802/132/338/591/original/1fbd8179219b73e1.jpg"
 }
