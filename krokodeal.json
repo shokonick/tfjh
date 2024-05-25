@@ -3,6 +3,11 @@
 	"bio": "Im just a designer who makes stuff :|",
 	"status": [
 		{
+			"status": "H",
+			"time": "23:07",
+			"date": "2024-05-25"
+		},
+		{
 			"status": "<strong><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://firebasestorage.googleapis.com/v0/b/shoko-web.appspot.com/o/Screenshot_2024-05-24-00-04-24-714_com.instagram.android-edit.jpg?alt=media&amp;token=a53cecae-61ff-4c6b-b5a7-b61fd07544ed\" alt=\"\" width=\"237\" height=\"182\" /></strong>",
 			"time": "21:04",
 			"date": "2024-05-24"
