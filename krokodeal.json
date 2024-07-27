@@ -2,6 +2,11 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"status": "<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn.masto.host/tooot/media_attachments/files/112/858/276/059/568/766/original/1285400314180594.jpg\" alt=\"\" width=\"200\" height=\"213\" />",
+			"time": "19:22",
+			"date": "2024-07-27"
+		},
+		{
 			"status": "meow",
 			"time": "18:19",
 			"date": "2024-07-26"
