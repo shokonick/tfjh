@@ -2,6 +2,11 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"status": "i hate power cut",
+			"time": "22:54",
+			"date": "2024-07-30"
+		},
+		{
 			"status": "<strong>at least one</strong>",
 			"time": "15:47",
 			"date": "2024-07-28"
