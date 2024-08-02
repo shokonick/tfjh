@@ -2,6 +2,11 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"status": "blopi blopi blop",
+			"time": "18:18",
+			"date": "2024-08-02"
+		},
+		{
 			"status": "If it sounds like ________ and smells like ________ it's sure ________",
 			"time": "13:57",
 			"date": "2024-08-01"
