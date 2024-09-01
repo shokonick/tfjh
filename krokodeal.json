@@ -2,6 +2,11 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"status": "Help",
+			"time": "11:06",
+			"date": "2024-09-01"
+		},
+		{
 			"status": "oh god.",
 			"time": "00:47",
 			"date": "2024-08-30"
