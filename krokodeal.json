@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "that thing",
+			"time": "22:59:47",
+			"date": "2024-09-20",
+			"id": "that-thing"
+		},
+		{
 			"update": "testingg on <a href=\"https://krokoodeal.web.app/\">firebase hosting</a>",
 			"time": "15:08:21",
 			"date": "2024-09-19",
