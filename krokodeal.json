@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "ok what now?",
+			"time": "13:36:47",
+			"date": "2024-09-28",
+			"id": "ok-what-now"
+		},
+		{
 			"update": "that thing",
 			"time": "22:59:47",
 			"date": "2024-09-20",
