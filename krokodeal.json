@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "I did not expect to open this month like this",
+			"time": "11:18:06",
+			"date": "2024-10-01",
+			"id": "i-did-not-expect-to-open-this-month-like-this"
+		},
+		{
 			"update": "<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn.masto.host/tooot/media_attachments/files/113/211/461/517/121/851/original/6d1f6a2296621170.jpg\" alt=\"\" width=\"193\" height=\"184\" />",
 			"time": "10:21:37",
 			"date": "2024-09-30",
