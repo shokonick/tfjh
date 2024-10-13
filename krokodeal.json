@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "Hello",
+			"time": "17:37:56",
+			"date": "2024-10-13",
+			"id": "hello"
+		},
+		{
 			"update": "Holy shmungus i remember when <a href=\"http://www.shinysearch.com\">ShinySearch</a> Was a thing",
 			"time": "03:09:48",
 			"date": "2024-10-12",
