@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "brb",
+			"time": "13:42:34",
+			"date": "2024-10-18",
+			"id": "brb"
+		},
+		{
 			"update": "<span style=\"color: #000000; font-family: mastodon-font-sans-serif, sans-serif; font-size: 19px; letter-spacing: normal; text-align: start; white-space-collapse: preserve;\">┈┈┈┈┈┈┈┈✁┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈</span><br style=\"color: #000000; font-family: mastodon-font-sans-serif, sans-serif; font-size: 19px; letter-spacing: normal; text-align: start; white-space-collapse: preserve;\" />the shmunguss situation is crazy<br /><span style=\"color: #000000; font-family: mastodon-font-sans-serif, sans-serif; font-size: 19px; letter-spacing: normal; text-align: start; white-space-collapse: preserve;\">┈┈┈┈┈┈┈┈✁┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈</span><br style=\"color: #000000; font-family: mastodon-font-sans-serif, sans-serif; font-size: 19px; letter-spacing: normal; text-align: start; white-space-collapse: preserve;\" />",
 			"time": "20:37:28",
 			"date": "2024-10-16",
