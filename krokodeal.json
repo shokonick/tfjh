@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "<p style=\"border-style: initial; border-color: initial; font: inherit; margin-bottom: 0px; vertical-align: initial; unicode-bidi: plaintext; white-space-collapse: preserve;\">the letter h</p>\n<button class=\"status__content__translate-button\" style=\"font-family: inherit; align-items: center; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: #6161ff; display: flex; font-size: 15px; line-height: 22px; padding: 16px 0px 0px; border: 0px initial initial;\"></button>",
+			"time": "15:19:50",
+			"date": "2024-10-22",
+			"id": "p-styleborder-style-initial-border-color-initial-font-inherit-margin-bottom-0px-vertical-align-initial-unicode-bidi-plaintext-white-space-collapse-preservethe-letter-hp-button-classstatus__content__translate-button-stylefont-family-inherit-align-items-center-background-image-initial-background-position-initial-background-size-initial-background-repeat-initial-background-attachment-initial-background-origin-initial-background-clip-initial-color-6161ff-display-flex-font-size-15px-line-height-22px-padding-16px-0px-0px-border-0px-initial-initialbutton"
+		},
+		{
 			"update": "brb",
 			"time": "13:42:34",
 			"date": "2024-10-18",
