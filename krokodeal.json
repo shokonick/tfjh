@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "Sleeping during the day, awake at night.",
+			"time": "11:58:13",
+			"date": "2024-11-03",
+			"id": "sleeping-during-the-day-awake-at-night"
+		},
+		{
 			"update": "<span style=\"color: #000000; font-family: mastodon-font-sans-serif, sans-serif; font-size: 19px; letter-spacing: normal; text-align: start; white-space-collapse: preserve;\">𝕿𝖍𝖊</span>",
 			"time": "00:40",
 			"date": "2024-10-28",
