@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn.masto.host/tooot/media_attachments/files/113/454/589/210/799/698/original/2e22d2336d9e7763.jpg\" alt=\"\" width=\"226\" height=\"222\" />\"Scan me\"",
+			"time": "13:31:45",
+			"date": "2024-11-11",
+			"id": "img-styledisplay-block-margin-left-auto-margin-right-auto-srchttpscdnmastohosttoootmedia_attachmentsfiles113454589210799698original2e22d2336d9e7763jpg-alt-width226-height222-scan-me"
+		},
+		{
 			"update": "<strong>:}</strong>",
 			"time": "23:54:14",
 			"date": "2024-11-08",
