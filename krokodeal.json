@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "Wait wait.",
+			"time": "18:03:33",
+			"date": "2024-11-23",
+			"id": "wait-wait"
+		},
+		{
 			"update": "<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn.masto.host/tooot/media_attachments/files/113/469/195/953/959/704/original/e39ed73d9e18163f.jpg\" alt=\"\" width=\"233\" height=\"169\" />",
 			"time": "11:12:45",
 			"date": "2024-11-12",
