@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "<span style=\"letter-spacing: 0.16px; white-space-collapse: preserve; background-color: #f3f3f3;\">damn</span>",
+			"time": "00:13",
+			"date": "2025-01-11",
+			"id": "span-styleletter-spacing-016px-white-space-collapse-preserve-background-color-f3f3f3damnspan"
+		},
+		{
 			"update": "a cool <a href=\"https://qrclock.live/\">qr clock</a> by <a href=\"https://www.reddit.com/r/InternetIsBeautiful/comments/1hw29ir/i_built_a_qr_code_clock_it_updates_the_qr_every/\">idris3396</a>",
 			"time": "01:05:14",
 			"date": "2025-01-08",
