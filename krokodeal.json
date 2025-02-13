@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn.masto.host/tooot/media_attachments/files/113/998/147/893/372/250/original/58b83a3fe11a007c.jpg\" alt=\"This image shows the back of a person's neck with tattoos of HTML tags: &#96;&lt;/head&gt;&#96; at the nape and &#96;&lt;body&gt;&#96; just below it. It's a creative play on web development code, humorously symbolizing the transition from the head to the body.\" width=\"166\" height=\"201\" />",
+			"time": "21:27:23",
+			"date": "2025-02-13",
+			"id": "img-styledisplay-block-margin-left-auto-margin-right-auto-srchttpscdnmastohosttoootmedia_attachmentsfiles113998147893372250original58b83a3fe11a007cjpg-altthis-image-shows-the-back-of-a-persons-neck-with-tattoos-of-html-tags-96ltheadgt96-at-the-nape-and-96ltbodygt96-just-below-it-its-a-creative-play-on-web-development-code-humorously-symbolizing-the-transition-from-the-head-to-the-body-width166-height201-"
+		},
+		{
 			"update": "My b-day&nbsp;",
 			"time": "16:30:18",
 			"date": "2025-02-05",
