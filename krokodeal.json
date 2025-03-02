@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "um,,",
+			"time": "19:45:39",
+			"date": "2025-03-02",
+			"id": "um"
+		},
+		{
 			"update": "<a href=\"https://cobalt.tools\">Useful Site</a>",
 			"time": "13:06:37",
 			"date": "2025-02-28",
