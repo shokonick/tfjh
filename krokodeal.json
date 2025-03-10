@@ -2,6 +2,12 @@
 	"username": "Shoko",
 	"status": [
 		{
+			"update": "mario",
+			"time": "21:14:02",
+			"date": "2025-03-10",
+			"id": "mario"
+		},
+		{
 			"update": "um..",
 			"time": "19:45:39",
 			"date": "2025-03-02",
